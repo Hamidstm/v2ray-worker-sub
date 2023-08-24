@@ -24,7 +24,7 @@ const subLinks = [
   "https://raw.githubusercontent.com/freefq/free/master/v2",
   "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
   "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
-  "https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt",
+  "https://raw.githubusercontent.com/benyamin95/v2ray-sub-for-iran/main/all-nodes-test",
   "https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/o/node.txt"
 ]
 
